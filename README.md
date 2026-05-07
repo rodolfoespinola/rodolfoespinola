@@ -6,7 +6,7 @@ The instinct has always been the same: find patterns in complex data, identify w
 
 ## What I'm building
 
-**[analise_alesc](https://github.com/rzespinola/analise-alesc)**  
+**[radio-network-analytics](https://github.com/rodolfoespinola/radio-network-analytics)**  
 Broadcast coverage analytics system for a public institution — 38 monthly Excel files, 302+ radio stations, 116 municipalities. Includes anomaly detection, municipal impact scoring, and automated reporting. Built entirely in Python with real institutional data.
 
 ## What I'm working on
