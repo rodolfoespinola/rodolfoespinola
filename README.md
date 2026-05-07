@@ -9,6 +9,11 @@ The instinct has always been the same: find patterns in complex data, identify w
 **[radio-network-analytics](https://github.com/rodolfoespinola/radio-network-analytics)**  
 Broadcast coverage analytics system for a public institution — 38 monthly Excel files, 302+ radio stations, 116 municipalities. Includes anomaly detection, municipal impact scoring, and automated reporting. Built entirely in Python with real institutional data.
 
+
+**[tagflow](https://github.com/rodolfoespinola/tagflow)**  
+Automated facial recognition and metadata tagging pipeline for institutional photo archives — RetinaFace, ArcFace, Flask review interface, ExifTool IPTC injection. Built for a state legislature; biometric embeddings stored locally in compliance with LGPD.
+
+
 ## What I'm working on
 
 - **Python Data Analysis (300h)** — SCTEC / SENAI·SC *(in progress, 2026)*
