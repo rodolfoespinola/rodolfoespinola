@@ -32,7 +32,7 @@ Automated facial recognition and metadata tagging pipeline for institutional pho
 - 15+ years delivering data-driven outputs inside public sector and broadcast media
 - Production experience with Python pipelines on real institutional data
 - Strong background in pattern recognition and anomaly identification — from journalism
-- Dual Brazilian-Portuguese citizenship; fluent in PT, EN, ES
+- Dual Brazilian-Portuguese citizenship; fluent in PT, EN
 
 ## Stack
 
