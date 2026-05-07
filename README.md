@@ -1,39 +1,39 @@
 # Hello, and welcome.
 
-After many years working in journalism and visual communication, I’m now fully focused on building a new career in **cybersecurity and cloud computing**.
+I'm a data analyst in transition — moving from 15+ years in journalism and institutional media into **security-focused data analysis**.
 
-Technology has always interested me — not just as a tool, but as a language. Today, I’m learning to speak that language fluently to contribute to secure, resilient, and ethical digital systems.
+The instinct has always been the same: find patterns in complex data, identify what's out of place, and communicate findings clearly. The domain changed; the analytical mindset didn't.
 
-## Why cybersecurity?
+## What I'm building
 
-Because I believe the integrity of our digital environment matters. I’m drawn to the responsibility of protecting systems, data, and people — and I’m deeply motivated by the opportunity to solve real-world problems, not only with technical skill, but also with clarity, strategy and care.
+**[analise_alesc](https://github.com/rzespinola/analise-alesc)**  
+Broadcast coverage analytics system for a public institution — 38 monthly Excel files, 302+ radio stations, 116 municipalities. Includes anomaly detection, municipal impact scoring, and automated reporting. Built entirely in Python with real institutional data.
 
-## What I’m working on
+## What I'm working on
 
-- Completing the **Google Cybersecurity Professional Certificate**
-- Studying for the **ISC2 Certified in Cybersecurity (CC)** and **Microsoft SC-900**
-- Practicing hands-on skills daily on platforms like **TryHackMe**
-- Building a portfolio of notes, labs and writeups here on GitHub
-- Learning **Linux**, **networking fundamentals**, **SIEM tools**, and **incident response**
-- Improving my French (A2) for opportunities in Luxembourg and across Europe
+- **Python Data Analysis (300h)** — SCTEC / SENAI·SC *(in progress, 2026)*
+- Deepening **SQL** for data pipeline and fraud analytics contexts
+- Studying **log analysis and anomaly detection** to bridge data and security
+- Building a documented portfolio of projects with real-world, messy datasets
 
-## My goal
+## Credentials
 
-To become a skilled and reliable **SOC Analyst** or **Cloud Security Technician**, contributing to a professional team where I can grow, keep learning, and make a difference.
+- **Google Cybersecurity Professional Certificate** — Google / Credly  
+- **Google Cloud Cybersecurity Certificate** — Google / Credly  
+- **Technical Diploma in Computing** — Escola Técnica Tupy, 2004
 
 ## What I bring
 
-- A strong foundation in research, communication, and critical thinking  
-- A disciplined learning mindset, with 30+ hours/week of dedicated study  
-- Deep motivation for meaningful, long-term work in the cybersecurity field  
+- 15+ years delivering data-driven outputs inside public sector and broadcast media
+- Production experience with Python pipelines on real institutional data
+- Strong background in pattern recognition and anomaly identification — from journalism
+- Dual Brazilian-Portuguese citizenship; fluent in PT, EN, ES
 
-## Tools and topics I’m exploring
+## Stack
 
-`Linux` `Wireshark` `Splunk` `Kali Linux` `Python` `Azure` `GitHub`  
-`Incident Response` `Cloud Security` `Threat Modeling`
+`Python` `Pandas` `SQL` `PostgreSQL` `Linux` `Git` `Google Cloud`  
+`ETL` `Data cleaning` `Anomaly detection` `SIEM fundamentals`
 
 ---
 
-**Feel free to connect:**
-
-- [Email](mailto:rzespinola@gmail.com)
+Based in Florianópolis, SC, Brazil · rzespinola@gmail.com
